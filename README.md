@@ -28,6 +28,8 @@ For this lab we are going to create a Mongoose db and Express server that has a 
 
  ## Bonus
  - Make the recipes and share with your class
+ - Especially if they are full of choclate and love
+ - mmmmm chocolate
 
 ![](https://www.foodandwine.com/thmb/5unLsehhjHUTG3CU7GjOsMpmgF4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ina-garten-new-food-network-tv-series-FT-BLOG0222-8ce1460d6041445881d5549a1d3753e1.jpg)
 
