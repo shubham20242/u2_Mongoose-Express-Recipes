@@ -1,5 +1,27 @@
 ## SEBR 0116
 
-!()[https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3c4987a4-f65d-4155-881a-11f68d602f17_1025x521.png]
+![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3c4987a4-f65d-4155-881a-11f68d602f17_1025x521.png)
 
 # Mongoose Express Recipes
+
+
+We know how labor intensive and draining Back End Coding can be, especially as the day goes on and our blood sugar starts to drop. Luckily, we can use our coding skills to help keep our energy up by creating a database of recipes for us to use!
+
+For this lab we are going to create a Mongoose db and Express server that has a number of models and routes for each. We'll be adding in some recipes. Don't worry about making anything too complex in this, we're more concerned with you understanding the set up of a db and server, and thinking about embedding and referencing documents than taking the time to write out something that will win you a Michelin star
+
+
+## Instructions 
+- We want to see at least 4 related models, you are free to change this up and make any adjustments that you'd like
+- Cuisine type, recipes, ingredients, and directions.
+- Take your time to plan out the data and relations before you begin setting up your code. Having everything planned out before beginning will be crucial as you move into the more advanced parts of the lesson
+- We want to see you using as many data types as you can. How do we differentiate Oz vs Tsp vs Tsps vs Gms for our ingredients. How should be mark Oven temperature? How about things like Vegan, Gluten Free, Kosher, Halal... Challenge yourself to make this a strong db where you try something you have not done before
+
+  
+## Requirements 
+
+- Index and Show routes for each of your models
+- Get-ing your data in a way besides your 
+- Create, Update, and Delete functionality for each as well
+- All functionality encapsulated in a Controllers folder
+- 
+
