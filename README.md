@@ -23,5 +23,5 @@ For this lab we are going to create a Mongoose db and Express server that has a 
 - Get-ing your data in a way besides your 
 - Create, Update, and Delete functionality for each as well
 - All functionality encapsulated in a Controllers folder
-- 
+-  At least 2 collections related to each other, with at least 1 part embedded into each other (maybe you want to relate Ingredients to Recipes, while embedding Instructions within Recipes, or maybe go the other way around) 
 
