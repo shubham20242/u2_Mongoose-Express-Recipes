@@ -23,5 +23,10 @@ For this lab we are going to create a Mongoose db and Express server that has a 
 - Get-ing your data in a way besides your 
 - Create, Update, and Delete functionality for each as well
 - All functionality encapsulated in a Controllers folder
--  At least 2 collections related to each other, with at least 1 part embedded into each other (maybe you want to relate Ingredients to Recipes, while embedding Instructions within Recipes, or maybe go the other way around) 
+-  At least 2 collections related to each other, with at least 1 part embedded into each other (maybe you want to relate Ingredients to Recipes, while embedding Instructions within Recipes, or maybe go the other way around)
+
+ ## Bonus
+ - Make the recipes and share with your class
+
+![](https://www.foodandwine.com/thmb/5unLsehhjHUTG3CU7GjOsMpmgF4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ina-garten-new-food-network-tv-series-FT-BLOG0222-8ce1460d6041445881d5549a1d3753e1.jpg)
 
